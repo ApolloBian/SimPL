@@ -1,0 +1,3 @@
+let a = fn x => x in
+	a 	
+end
